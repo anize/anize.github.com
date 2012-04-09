@@ -1,5 +1,6 @@
+![The color is #dfcdfc](keepcalm.png)
 
-![Keep Calm](keepcalm.png "The color is #dfcdfc)
+
 
     -----BEGIN PGP SIGNED MESSAGE-----
     Hash: SHA1
@@ -41,4 +42,6 @@
     TxVh+hRm95M+n4Fq75qn
     =7ZQe
     -----END PGP SIGNATURE-----
+
+
 
